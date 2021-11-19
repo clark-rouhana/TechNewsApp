@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TechNewsApp</string>
+    <string name="start_button">Enter</string>
+    <string name="title">Tech News</string>
+</resources>
